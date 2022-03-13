@@ -1,0 +1,33 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+
+    "sahip" : "728931818182541392",
+    "prefix" : ".",
+    "footer" : "REMCİA 💜 KHALIFA",
+
+    "tag" : "$",
+    "etikettag" : "0017",
+    "sembol" : "|",
+  
+    "yetkiliRol" : ["951955186019098694", "2. YOKSA BOŞ BIRAK", "3. YOKSA BOŞ BIRAK"],
+    "vipRol" : "952093984887537704",
+    "boosterRol" : "952181820538101810",
+    "kayıtsızRol" : "951954645905977368",
+    "erkekRol1" : "951953729781895299",
+    "erkekRol2" : "951954014973595668",
+    "kadınRol1" : "951953729828048906",
+    "kadınRol2" : "951954014973595668",
+
+    "tagRol" : "951955305942626304",
+    "tagLog" : "951960451640594482",
+
+    "SunucuID" : "951941159440236544",
+    "hosgeldinKanal" : "951950311466106990",
+    "sohbetKanal" : "951941159440236547", 
+    "botSesKanal" : "951949905176453170",
+  
+    "yes" : "<a:onaytik~1:952610974890885170>",
+    "no" : "<a:red:952611167275212800>"
+}
